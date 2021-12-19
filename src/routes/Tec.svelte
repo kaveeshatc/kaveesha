@@ -1,1 +1,0 @@
-thama hadana gaman

@@ -38,3 +38,6 @@
 <br/>
 <img src="isuru5.jpg"/>
 <p>*How Isurumuniya looks away. <br/> ඉසුරුමුණිය ඈතට පෙනෙන ආකාරය.  </p>
+<br/>
+<br/>
+<a href="Tec"> <input type="button" value="Back Page"> </a>

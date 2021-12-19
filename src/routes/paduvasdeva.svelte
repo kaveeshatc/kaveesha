@@ -8,3 +8,6 @@
 <p>
     *Prince Panduvasudeva, was King of Upatissa Nuwara  from 504 BC to 474 BC. He was the first monarch of the Kingdom of Upatissa Nuwara succeeding Upatissa, who reigned as regent. Panduvasudeva had ten sons, including Abhaya, Tissa and his only daughter Unmada Chitra. 
     <br/> ක්‍රිපූ 504 සිට ක්‍රිපූ 474 දක්වා උපතිස්ස නුවර රජ වූයේ පඬුවාසුදේව කුමරුය. ඔහු උපතිස්ස රජතුමාගෙන් පසුව රජ වූ උපතිස්ස නුවර රාජධානියේ පළමු රජ විය. පඬුවාසුදේවයන්ට අභය, තිස්ස සහ ඔහුගේ එකම දියණිය උන්මාදා චිත්‍රා ඇතුළු පුතුන් දස දෙනෙක් සිටියහ. </p>
+<br/>
+<br/>
+<a href="Kings"> <input type="button" value="Back Page"> </a>

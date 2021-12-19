@@ -56,3 +56,6 @@
     <br/>
     <img src="sigiri7.jpg"/>
     <p>*සීගිරි කුරුටු ගී. <br/> Sigiriya Kurutu Gee.  </p>
+    <br/>
+    <br/>
+    <a href="Tec"> <input type="button" value="Back Page"> </a>

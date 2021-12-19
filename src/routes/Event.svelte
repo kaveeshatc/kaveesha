@@ -1,4 +1,4 @@
-<h1>Our School Special Events</h1>
+<h1>Our School Special Events &#128512; </h1>
 <br/>
 <br/>
 <br/>

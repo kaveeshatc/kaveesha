@@ -1,15 +1,8 @@
-<h1>R/Eheliyagoda M.M.V.</h1>
-<img alt="" src="main.jpg" width= "15%" /> 
-<br/>
-<br/>
-<br/>
-<a href="New"> <input type="button" value="School Photos"> </a>
-<br/>
-<br/>
-<a href="Event"> <input type="button" value="Special Events"> </a>
-<br/>
-<br/>
-<a href="Vision"> <input type="button" value="School Vision"> </a>
-<br/>
-<br/>
-<a href="Misson"> <input type="button" value="School Misson"> </a>
+<h1>ශ්‍රී ලංකා වැදගත් ඉතිහාසය ඉංග්‍රීසි භාෂාවෙන් සහ සිංහල භාෂාවෙන්</h1>
+
+<h2>Sri Lanka Important History In English Language</h2>
+<br>
+<a href="Mainking"> <input type="button" value="Kings And Queens"> </a>
+<br>
+<br>
+<a href="Tec"> <input type="button" value="Tecnology"> </a>

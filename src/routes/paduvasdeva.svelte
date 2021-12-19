@@ -1,0 +1,2 @@
+<h2>King paduvasdeva</h2>
+<p>*According to the Mahavansa chronicle, Prince Paduvasdeva 504 BC – 474 BC Was king of time.<br/> මහාවංශ වංශකතාවට අනුව, පඬුවස්දේව රජු (ක්‍රි.පූ. 504 – 474) කාලයේ රජු විය.</p>
